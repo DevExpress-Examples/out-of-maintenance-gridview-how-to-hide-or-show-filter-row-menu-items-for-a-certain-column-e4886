@@ -1,0 +1,16 @@
+@Html.DevExpress().GridView(settings=>{
+    settings.Name = "gridView";
+    settings.CallbackRouteValues = new { Controller = "Home", Action = "GridViewPartial" };
+
+    settings.Settings.ShowFilterRow = true;
+    settings.Settings.ShowFilterRowMenu = true;
+
+    settings.Columns.Add(c => {
+        c.FieldName = "Col1";
+        ((GridViewDataColumn)c).FilterCellStyle.CssClass = "necessaryColumn";
+    });
+    settings.Columns.Add("Col2");
+
+    settings.Styles.FilterCell.CssClass = "filterCell";
+    settings.Styles.FilterRowMenuItem.CssClass = "frmi";
+}).Bind(Model).GetHtml()

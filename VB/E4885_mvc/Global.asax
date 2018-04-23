@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.vb" Inherits="E4885_mvc.MvcApplication" Language="vb" %>
