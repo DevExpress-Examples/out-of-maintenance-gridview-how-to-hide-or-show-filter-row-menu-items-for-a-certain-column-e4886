@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/E4885_mvc/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/E4885_mvc/Controllers/HomeController.vb))
+* [GridViewPartial.cshtml](./CS/E4885_mvc/Views/Home/GridViewPartial.cshtml)
+* [Index.cshtml](./CS/E4885_mvc/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # GridView - How to hide or show filter row menu items for a certain column
 
 
