@@ -6,6 +6,9 @@
 * [Index.cshtml](./CS/E4885_mvc/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # GridView - How to hide or show filter row menu items for a certain column
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4886)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to hide or show filter row menu items for a certain column.</p><br />
