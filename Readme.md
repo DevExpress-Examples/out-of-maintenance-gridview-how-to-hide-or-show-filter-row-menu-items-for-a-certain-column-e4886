@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # GridView - How to hide or show filter row menu items for a certain column
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4886)**
+**[[Run Online]](https://codecentral.devexpress.com/e4886/)**
 <!-- run online end -->
 
 
